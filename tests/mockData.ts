@@ -1,0 +1,73 @@
+export const mockData = [
+  {
+    id: 1,
+    name: "Item 1",
+    section: "Fruits",
+    price: 10,
+    weight: 100,
+  },
+  {
+    id: 2,
+    name: "Item 2",
+    section: "Fruits",
+    price: 20,
+    weight: 200,
+  },
+  {
+    id: 3,
+    name: "Item 3",
+    section: "Fruits",
+    price: 15,
+    weight: 150,
+  },
+  {
+    id: 4,
+    name: "Item 4",
+    section: "Dairy",
+    price: 25,
+    weight: 120,
+  },
+  {
+    id: 5,
+    name: "Item 5",
+    section: "Beverages",
+    price: 30,
+    weight: 180,
+  },
+  // Add more items here
+  {
+    id: 6,
+    name: "Item 6",
+    section: "Snacks",
+    price: 8,
+    weight: 90,
+  },
+  {
+    id: 7,
+    name: "Item 7",
+    section: "Meat",
+    price: 35,
+    weight: 220,
+  },
+  {
+    id: 8,
+    name: "Item 8",
+    section: "Fruits",
+    price: 18,
+    weight: 170,
+  },
+  {
+    id: 9,
+    name: "Item 9",
+    section: "Bakery",
+    price: 12,
+    weight: 140,
+  },
+  {
+    id: 10,
+    name: "Item 10",
+    section: "Condiments",
+    price: 5,
+    weight: 80,
+  },
+];

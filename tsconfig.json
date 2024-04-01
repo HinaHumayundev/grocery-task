@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "baseUrl": "./",
+        "useDefineForClassFields": true,
+        "lib": ["ES2020", "DOM", "DOM.Iterable"],
+        "module": "ESNext",
+        "skipLibCheck": true,
+        "types": ["cypress", "mocha", "jest"],
+        "paths": {
+            "@mui/material": ["./node_modules/@mui/material"],
+            "@mui/icons-material": ["./node_modules/@mui/icons-material"],
+            "@features/*": ["./src/features/*"]
+        },
+        /* Bundler mode */
+        "moduleResolution": "bundler",
+        "allowImportingTsExtensions": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "jsx": "react", // Corrected value here
+        /* Linting */
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true
+    },
+    "include": ["src", "./setupTest.ts"],
+    "references": [{ "path": "./tsconfig.node.json" }]
+}
