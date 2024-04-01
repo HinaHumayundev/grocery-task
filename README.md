@@ -1,6 +1,6 @@
-# Coolset Frontend Assignment
+# Frontend Grocery Task
 
-This is a Coolset Assignment (React TypeScript table component with various features such as pagination, row display options, sorting, and filtering. It also includes additional features like sticky headers/columns, responsiveness, and accessibility).
+This is a Frontend Assignment (React TypeScript table component with various features such as pagination, row display options, sorting, and filtering. It also includes additional features like sticky headers/columns, responsiveness, and accessibility).
 
 ## Features
 
