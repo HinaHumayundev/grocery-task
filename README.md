@@ -46,4 +46,4 @@ _or_
 
 ## Deployment
 
-The project is deployed on Firebase Google Cloud. You can access the deployed version at <https://main--dapper-puppy-0d65d6.netlify.app/>.
+The project is deployed on Netlify. You can access the deployed version at <https://main--dapper-puppy-0d65d6.netlify.app/>.
